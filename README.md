@@ -56,4 +56,4 @@ Sidney Basa (student developer)
 Run the program with node index.js and check for errors in the console
 
 ## Questions
-How do I add shield badges for the MIT license to this readme file generator.
+How do I add a shield badge for the MIT license to this readme file generator?
