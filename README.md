@@ -49,7 +49,7 @@ then press enter <br>
 MIT License
 
 ## Contributing
-Trinh Nguyen (tutor UW coding bootcamp with EDx.org) <br>
+Trinh N. (tutor UW coding bootcamp with EDx.org) <br>
 Sidney Basa (student developer)
 
 ## Tests
