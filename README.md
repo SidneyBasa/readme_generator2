@@ -1,5 +1,8 @@
 # Description
-A program that generates a readme.md file from user input
+A program that generates a readme.md file from user input <br>
+This program requires the inquirer dependency version 8.2.4 <br>
+At the time of this writing, the default version is 9.1.4 <br>
+Please see installation notes to change the inquirer version. <br>
 
 # Table of contents
 - [Installation](#installation)
